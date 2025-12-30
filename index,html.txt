@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Selamat Tahun Baru Ndoro Princess</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: "Segoe UI", sans-serif;
+            background: linear-gradient(135deg, #ff9a9e, #a1ffce);
+            color: #2b2b2b;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+
+        section {
+            background: rgba(255, 255, 255, 0.85);
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+
+        h1, h2 {
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3rem;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            color: #c2185b;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            padding: 8px 0;
+            font-size: 1.1rem;
+        }
+
+        .seblak {
+            text-align: center;
+            font-size: 3rem;
+            margin: 20px 0;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0); }
+        }
+
+        .closing {
+            text-align: center;
+            font-size: 1.2rem;
+            line-height: 1.8;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <!-- PAGE 1 -->
+    <section>
+        <h1>🎉 Selamat Tahun Baru 🎉</h1>
+        <h2>Taffy aka Ndoro Princess</h2>
+        <div class="seblak">🍜🔥</div>
+    </section>
+
+    <!-- PAGE 2 -->
+    <section>
+        <h2>Statistik Pencapaian 2025<br>bersama Pakar Teknologi</h2>
+        <ul>
+            <li>🔥 Meet up : 4 kali</li>
+            <li>📱 Streak TikTok : 61 hari</li>
+            <li>💬 Chattan WhatsApp : nonstop 🔥</li>
+            <li>📸 Kirim pap cantik yang bisa disimpen : 0 👎</li>
+            <li>⚽ Mempelajari Chelsea</li>
+            <li>🎬 Nobar film : 3 (kayanya)</li>
+        </ul>
+        <div class="seblak">🍜🌶️</div>
+    </section>
+
+    <!-- PAGE 3 -->
+    <section>
+        <h2>Pencapaian Ndoro Princess 2025<br>(setahu Pakar Teknologi)</h2>
+        <ul>
+            <li>✅ Menamatkan campaign (Goodbye Betty)</li>
+            <li>✅ Menamatkan Sobron</li>
+            <li>📝 Menamatkan tugas-tugas besar lainnya (tapi belum kelar UAS njir)</li>
+            <li>🏕️ Glamping with teman-teman</li>
+            <li>📚 Menamatkan PMK dengan boti di dalamnya</li>
+            <li>✨ Dan pencapaian-pencapaian lain yang gabisa disebutin (mmf klo lupa)</li>
+        </ul>
+        <div class="seblak">🍜🔥🍥</div>
+    </section>
+
+    <!-- PAGE 4 -->
+    <section>
+        <div class="closing">
+            <p>
+                Dari semua pencapaian kamu, atau pencapaian kita, atau hal-hal kecil
+                yang kamu lakuin, i just wanna tell you that i'm proud for everything.
+            </p>
+            <p>
+                <strong>You did beyond spectacular, Taffy.</strong>
+            </p>
+        </div>
+    </section>
+
+    <!-- PAGE 5 -->
+    <section>
+        <div class="closing">
+            <p>
+                2026 awaits, hope you can reach anything you wanna reach, do your best Taffy!
+            </p>
+            <p>
+                While you do your best, i'm right here if you need me.
+                Hoping we can reach more for both of us together.
+            </p>
+        </div>
+        <div class="seblak">🍜💖💚</div>
+    </section>
+
+</div>
+
+<footer>
+    dibuat dengan niat, seblak, dan teknologi 🔥
+</footer>
+
+</body>
+</html>
